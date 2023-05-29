@@ -1,0 +1,36 @@
+.pix-1{
+    width: 100%;
+}
+
+.video-preview{
+    vertical-align: top;
+}
+.artist-block{
+    vertical-align: top;
+    width: 50px;
+}
+.art-image{
+    width: 100%;
+    border-radius: 50%;
+}
+.video-title{
+    margin-top: 0;
+    font-size: 18px;
+    font-weight: 700;                
+}
+.artist-name{
+    margin-bottom: 12px;
+}
+.video-info-grid{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    margin-top: 20px;
+}
+.video-stat{
+    padding-left: 13px;
+}
+.video-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 24px;
+}
